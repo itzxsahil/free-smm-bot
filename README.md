@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">🚀 FREE SMM BOT</h1>
 
 <p align="center">
