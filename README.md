@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/your-username">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Zefame+Auto+Bot;Instagram+%7C+YouTube+%7C+Telegram;Smart+Queue+%26+Auto+Order;Made+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=FREE+SMM+BOT;Instagram+%7C+YouTube+%7C+Telegram;Smart+Queue+%26+Auto+Order;Made+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
